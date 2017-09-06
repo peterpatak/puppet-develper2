@@ -1,2 +1,2 @@
 # puppet-develper2
-puppet dev
+puppet dev and deployment
